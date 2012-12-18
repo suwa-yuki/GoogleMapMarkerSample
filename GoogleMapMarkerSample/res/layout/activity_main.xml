@@ -1,0 +1,11 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/map"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    class="com.google.android.gms.maps.SupportMapFragment"
+    map:cameraBearing="112.5"
+    map:cameraTargetLat="35.697261"
+    map:cameraTargetLng="139.774728"
+    map:cameraTilt="80"
+    map:cameraZoom="19" />
